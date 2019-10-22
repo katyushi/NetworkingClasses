@@ -14,5 +14,5 @@
   if there is a 255 on the mask the number must be the same on all ip addresses
 </p>
 <p>
-  if there is a 0 on the mask the number can be anything between 0 and 255 on the ip address
+  if there is a 0 on the mask the number can be anything between 0 and 255 on the ip addresses
 </p>
