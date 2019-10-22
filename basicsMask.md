@@ -9,7 +9,6 @@
     class c (ip numbers between 192-239 on the 255's in the mask) mask ex: (255.0.0.0)
   </li>
 </ul>
-<br>
 <ul>
   <li>class a ip ex: 41.34.82.242</li>
   <li>class b ip ex: 170.163.163.173</li>
