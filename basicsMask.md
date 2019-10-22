@@ -1,12 +1,12 @@
 <ul>
   <li>
-    class a ( 1-127 (255.255.255.0) )
+    class a (ip numbers between 1-127 on the 255's in the mask) mask ex: (255.255.255.0)
   </li>
   <li>
-    class b ( 128-191 (255.255.0.0) )
+    class b (ip numbers between 128-191 on the 255's in the mask) mask ex: (255.255.0.0)
   </li>
   <li>
-    class c ( 192-239 (255.0.0.0) )
+    class c (ip numbers between 192-239 on the 255's in the mask) mask ex: (255.0.0.0)
   </li>
 </ul>
 <br>
