@@ -10,6 +10,12 @@
   </li>
 </ul>
 <br>
+<ul>
+  <li>class a ip ex: 41.34.82.242</li>
+  <li>class b ip ex: 170.163.163.173</li>
+  <li>class c ip ex: 230.98.163.17</li>
+</ul>
+<br>
 <p>
   if there is a 255 on the mask the number must be the same on all ip addresses
 </p>
