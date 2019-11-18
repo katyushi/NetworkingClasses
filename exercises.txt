@@ -50,8 +50,8 @@ b) classe a publico
 c) classe b publico
 d) classe a privado
 e) classe c publico
-f) classe c publico 
-g)
-h)
-i)
-j)
+f) classe c publico
+g) classe a privado
+h) classe c privado
+i) classe b privado
+j) classe b publico
